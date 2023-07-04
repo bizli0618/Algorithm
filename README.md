@@ -1,1 +1,1 @@
-# boj
+# Algorithm
